@@ -22,6 +22,7 @@
 /* Begin PBXFileReference section */
 		035BE71B2970975F00492043 /* DiceIcon1024x1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DiceIcon1024x1024.png; sourceTree = "<group>"; };
 		035F261B26D1ED08001E8C65 /* RollDice.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RollDice.png; sourceTree = "<group>"; };
+		0361CF6A2976E2F10094B4A5 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		036A07FB296F99E500655036 /* Shaker.scn */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = Shaker.scn; sourceTree = "<group>"; };
 		036A07FD296FAB8F00655036 /* WSUMVC.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = WSUMVC.entitlements; sourceTree = "<group>"; };
 		03766B8F2326DDAE00619122 /* WSUMVC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WSUMVC.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -65,6 +66,7 @@
 		03766B912326DDAE00619122 /* WSUMVC */ = {
 			isa = PBXGroup;
 			children = (
+				0361CF6A2976E2F10094B4A5 /* README.md */,
 				036A07FD296FAB8F00655036 /* WSUMVC.entitlements */,
 				03766BA82326DDE200619122 /* Model */,
 				03766BA42326DDB900619122 /* Controller */,
