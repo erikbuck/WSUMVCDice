@@ -6,5 +6,5 @@ This is an example project built for Wright State University CS-3170 "Mobile App
 - The View is a SceneKit View that displays the 3D dice as they are animated, reports the final states of the dice, allows control over the number of dice, reports the number of rolls, and enables re-rolling.
 - The Controller serves as a 'glue' interface between the View and the Model. The Controller creates or loads the Model and creates or loads the View.
 
-![Screenshot of Dice Rolling Simulation](./SimulatorScreenShotiPhone14Plus.png "Screenshot of Dice Rolling Simulation")![Another Screenshot of Dice Rolling Simulation](./SimulatorScreenShotiPhone14Plus.png "Another Screenshot of Dice Rolling Simulation")
+![Screenshot of Dice Rolling Simulation](./SimulatorScreenShotiPhone14Plus.png "Screenshot of Dice Rolling Simulation") ![Another Screenshot of Dice Rolling Simulation](./SimulatorScreenShotiPhone14Plus.png "Another Screenshot of Dice Rolling Simulation")
 
